@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.menumitra.superclass.APIBase"/>
-      <class name="com.menumitratCommonAPITestScript.TableListViewTestScript"/>
+     <class name="com.menumitratCommonAPITestScript.TableListViewTestScript"/>
       <class name="com.menumitratCommonAPITestScript.ActivityLogTestScript"/>
       <class name="com.menumitratCommonAPITestScript.ChefViewTestScript"/>
       <class name="com.menumitratCommonAPITestScript.GetStaffListWithRole"/>
@@ -122,9 +122,10 @@
       <class name="com.menumitratCommonAPITestScript.MenuCategoryCreateTestScript"/>
       <class name="com.menumitratCommonAPITestScript.StaffUpdateTestScript"/>
       <class name="com.menumitratCommonAPITestScript.GetTemplates"/>
-      
+      <!--New Test Script-->
       <class name="com.menumitratCommonAPITestScript.SplitTableTestScript"/>
       <class name="com.menumitratCommonAPITestScript.UnSplitTableTestScript"/>
+      <class name="com.menumitratCommonAPITestScript.OrderPaymentSettleTestScript"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

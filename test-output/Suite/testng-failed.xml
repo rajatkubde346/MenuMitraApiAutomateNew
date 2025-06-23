@@ -4,8 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.menumitra.superclass.APIBase"/>
-      <class name="com.menumitratCommonAPITestScript.SplitTableTestScript"/>
-      <class name="com.menumitratCommonAPITestScript.UnSplitTableTestScript"/>
+      <class name="com.menumitratCommonAPITestScript.OrderPaymentSettleTestScript"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Failed suite [Suite] -->
